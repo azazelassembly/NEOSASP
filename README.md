@@ -1,12 +1,10 @@
 # NEOSASP (NeoSimpleAuthSystemPython)
 
 ## About the Project
-NEOSASP (NeoSimpleAuthSystemPython) is a simple system for checking the functionality of Python code. The project is designed for learning and demonstrating basic principles of code execution and validation.
+NEOSASP (NeoSimpleAuthSystemPython) is a example for key check system.
 
 ## Features
-- Checking entered Python code
-- Displaying execution results
-- Handling execution errors
+-
 
 ## Requirements
 - Python 3.8+
@@ -23,12 +21,10 @@ NEOSASP (NeoSimpleAuthSystemPython) is a simple system for checking the function
    ```
 
 ## Usage
-After running the program, you can enter Python code, and the program will check its functionality, displaying the result or an error message.
+After running the program, you can enter any key.
 
 ## Future Plans
-- Improving error handling
-- Support for working with modules
-- Ability to save results
+- Add auth system with users and subs
 
 ## Contributing
 The project is in development. Any help is welcome! You can create an issue or a pull request.
